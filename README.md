@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**MDKVA/MDKVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are **[MDK Visionary Automations](https://mdkva.com/)** — a technology-driven company founded by **[M. Danyal Kayani](https://mdkdanyal.com/)**, focused on creating **smart, automated digital systems** that merge **logic with design**.  
 
-Here are some ideas to get you started:
+Our mission is to **simplify life through human-centered technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 We’re currently working on
+- **AI-Powered Workflows** 
+- **Tech Platforms**
+
+---
+
+### 👯 We’re looking to collaborate on
+- **Partnerships**
+- **Open-Source** Contributions. 
+
+---
+
+### 📫 How to reach us
+- ✉️ Mail: [contact@mdkva.com](mailto:contact@mdkva.com)
+
+---
+
+> _"Simplifying Life with Human-Centered Tech."_  
