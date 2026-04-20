@@ -9,8 +9,6 @@
 
 🌐 **[MDKVA.com](https://mdkva.com/)** – The Core Ecosystem.
 
-✍️ **[MDK Logic](https://mdanyalkayani.com/blog)** – Engineering and Philosophy Insights.
-
 <details>
 <summary><b>The MDKVA Philosophy</b></summary>
 
@@ -38,7 +36,7 @@
 - 🎨 **[ThemeKit](https://mdkva.com/apis/themekit/)** – The foundation of our "Quiet UI" design system for web and mobile.
 - 🖋️ **[TextKit](https://mdkva.com/apis/textkit/)** – Smart text processing utilities for clean, accessible interfaces.
 
-## 🔭 Current Sprint
+## 🔭 Current Focus
 
 - **Engineering Stillness** — Refining the "Quiet UI" philosophy across all active repositories.
 - **Local-First Infrastructure** — Standardizing data portability and offline-first reliability.
@@ -58,8 +56,6 @@ We are always open to visionary conversations regarding:
 - **Human-Centered Design:** Consulting on the intersection of ethics, faith, and technology.
 - **Open Source:** Contributing to projects that prioritize digital minimalism.
 - **API Integration:** Bringing MDKVA into your existing digital ecosystem.
-
----
 
 ### 📫 Connect with the Vision
 
